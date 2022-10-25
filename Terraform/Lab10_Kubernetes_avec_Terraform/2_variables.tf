@@ -1,7 +1,7 @@
 #  Resource Group Name du cluster AKS
 variable "resource_group_name" {
   type    = string
-  default = "RG-AKSCluster"
+  default = "RG-AKSCluster-mdt"
 }
 
 # AKS Cluster name
